@@ -1,0 +1,19 @@
+ASSET CREDITS
+
+1) Player sprite
+Source: OpenGameArt - "Top-down pixelart character 360" by przemek.sz
+License: CC0
+File used: assets/player.png
+
+2) Dungeon texture / wall / door source image
+Source: OpenGameArt - "32X32 Dungeon Tileset" by ThatOneRandomGameDev
+License listed on page: CC0
+File used: assets/dungeon.png
+
+3) Monster sprites
+Source: OpenGameArt - "Monster Sprites" by Kemono
+License: CC-BY-SA 3.0
+Files used: assets/gorksprite.png, assets/skellysprite.png
+
+Note:
+If you publish or submit this project, keep this credits file with the project.
